@@ -1,19 +1,28 @@
+
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # runs at every 12AM UTC
+    - cron: '05 0 * * *'
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True" 
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "True"
+
+- name: wakatime-gist
+  uses: abordage/wakatime-box@1.3.5
