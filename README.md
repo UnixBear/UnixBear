@@ -14,6 +14,8 @@
 
 <!--END_SECTION:waka-->
 
+# Welcome!
+I’m a fairly new data scientist! I specialize in building models  that have robust visualizations in terms of changing features on the fly! I love designing visual quantitative analysises that light yet powerful, beautiful yet effective. 
 ## Languages
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
