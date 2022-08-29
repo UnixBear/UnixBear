@@ -15,8 +15,11 @@
 <!--END_SECTION:waka-->
 
 # Welcome!
-I’m a fairly new data scientist! I specialize in building models  that have robust visualizations in terms of changing features on the fly! I love designing visual quantitative analysises that light yet powerful, beautiful yet effective. 
+Originally a mathematician, I’m a fairly new data scientist! I specialize in building models  that have robust visualizations in terms of changing features on the fly! I love designing visual quantitative analysises that light yet powerful, beautiful yet effective. 
 ## Languages
+<div align="center">  
+<a href="https://ocaml.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ocaml/ocaml-logo/master/Colour/PNG/colour-logo.png" alt="OCaml" height="25" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://img2.pngdownload.id/20180607/b/kisspng-matlab-mathworks-simulink-computer-software-eigenf-deep-learning-5b196403700b54.8609250515283906594589.jpg" alt="OCaml" height="25" /></a>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
