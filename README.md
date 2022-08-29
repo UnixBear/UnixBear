@@ -2,9 +2,9 @@
 - 👀 I’m interested in data science and machine learning!
 - 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on linux or machine learning projects
-- 📫 How to reach me u
+- π  Fun fact: I've memorized π to the 20th decimal! 
 
-<!---
-UnixBear/UnixBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![screen-gif](./src/profile1.gif)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
