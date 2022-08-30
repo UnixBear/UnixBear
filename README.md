@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and machine learning!
 - 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on linux or machine learning projects
-- π  Fun fact: I've memorized π to the 20th decimal! 
+- π  Fun fact: I know every digit in π but I'm fuzzy on the order
 
 <a href="https://www.linkedin.com/in/sam-gussow-53a383162/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
