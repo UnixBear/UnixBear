@@ -11,28 +11,28 @@
 <img src="./src/profile1.gif" width="600" height="600"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-941%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-942%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        ██████████████░░░░░░░░░░░   56.23% 
-Markdown                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   34.25% 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+Python                   3 hrs 33 mins       █████████████████░░░░░░░░   68.03% 
+Markdown                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.02% 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.96%
 
 🔥 Editors: 
-VS Code                  3 hrs 49 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 14 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    3 hrs 49 mins       █████████████████████████   100.0%
+Linux                    5 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/08/2022 18:47:55 UTC
+ Last Updated on 31/08/2022 18:48:42 UTC
 <!--END_SECTION:waka-->
 
 # Welcome!
