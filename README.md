@@ -11,7 +11,7 @@
 <img src="./src/profile1.gif" width="600" height="600"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-947%20Thousand%20lines%20of%20code-blue)
 
@@ -19,20 +19,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 32 mins       ███████████████████████░░   95.17% 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+Python                   2 hrs 40 mins       ████████████████████████░   98.1% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 43 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 46 mins       █████████████████████████   100.0%
+Linux                    2 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/09/2022 18:52:36 UTC
+ Last Updated on 08/09/2022 18:52:03 UTC
 <!--END_SECTION:waka-->
 
 # Welcome!
