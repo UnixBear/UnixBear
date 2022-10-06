@@ -11,7 +11,7 @@
 <img src="./src/profile1.gif" width="600" height="600"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -19,19 +19,18 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 36 mins       █████████████████████████   99.84% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Rust                     1 hr 27 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 37 mins       █████████████████████████   100.0%
+VS Code                  1 hr 27 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 37 mins       █████████████████████████   100.0%
+Linux                    1 hr 27 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 05/10/2022 19:03:59 UTC
+ Last Updated on 06/10/2022 19:02:16 UTC
 <!--END_SECTION:waka-->
 
 # Welcome!
