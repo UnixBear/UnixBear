@@ -19,18 +19,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/11/2022 18:42:43 UTC
+ Last Updated on 27/11/2022 18:42:48 UTC
 <!--END_SECTION:waka-->
 
 # Welcome!
