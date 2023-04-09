@@ -11,7 +11,7 @@
 <img src="./src/profile1.gif" width="600" height="600"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,7 +35,7 @@ Linux                    3 hrs 25 mins       ███████████�
 ```
 
 
- Last Updated on 08/04/2023 18:34:49 UTC
+ Last Updated on 09/04/2023 18:34:51 UTC
 <!--END_SECTION:waka-->
 
 # Welcome!
