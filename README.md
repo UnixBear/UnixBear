@@ -19,18 +19,19 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 18 mins       ███████████████████████░░   94.9% 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 25 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/08/2024
+ Last Updated on 17/08/2024
 <!--END_SECTION:waka-->
 
 # Welcome!
