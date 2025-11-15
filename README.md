@@ -11,7 +11,7 @@
 <img src="./src/profile1.gif" width="600" height="600"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,7 +30,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/11/2025
+ Last Updated on 15/11/2025
 <!--END_SECTION:waka-->
 
 # Welcome!
